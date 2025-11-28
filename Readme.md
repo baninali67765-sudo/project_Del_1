@@ -1,0 +1,1 @@
+Python version: 3.14.0 Create venv: python3.14.0 -m venv .venv Activate: source .venv/bin/activate Install: pip install -r requirements.txt
